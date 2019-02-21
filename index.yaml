@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   jenkins:
   - appVersion: lts
-    created: 2019-02-21T17:34:49.9978105+05:30
+    created: 2019-02-21T17:38:30.9726418+05:30
     description: Open source continuous integration server. It supports multiple SCM
       tools including CVS, Subversion and Git. It can execute Apache Ant and Apache
       Maven-based projects as well as arbitrary scripts.
@@ -19,6 +19,6 @@ entries:
     - https://github.com/nuvo/kube-tasks
     - https://github.com/jenkinsci/configuration-as-code-plugin
     urls:
-    - https://github.com/Hiranmoy/jenkins.git/jenkins-0.32.6.tgz
+    - https://github.com/Hiranmoy/jenkins/jenkins-0.32.6.tgz
     version: 0.32.6
-generated: 2019-02-21T17:34:49.9957594+05:30
+generated: 2019-02-21T17:38:30.9706813+05:30
